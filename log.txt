@@ -1,0 +1,1 @@
+wfwadw[Key.backspace][Key.cmd]d[Key.alt_l][Key.cmd]hello
